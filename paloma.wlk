@@ -7,6 +7,7 @@ object paloma{
     method cambiarVersion() {
         version = version.siguiente()
     }
+    
 }
 
 object natural {
